@@ -23,4 +23,8 @@
 - **IDE**              Eclipse, Netbeans, IntelliJ IDEA, Android Studio, DataGrip, MySQL Workbench, VSCode
 - **VCS**              Git
 
+#### Education
+
+- Bachelor of Science, Business Information Technology (JKUAT - Nairobi, Kenya)
+
 
