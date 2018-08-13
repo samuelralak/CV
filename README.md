@@ -1,8 +1,8 @@
-## Samuel Ralak
+#### Samuel Ralak
 
 [github.com/samuelralak](https://github.com/samuelralak)
 
-## Experience highlights
+#### Experience highlights
 
 - **SafeBoda** - Software Engineer
 - **EmurgoHK** - Freelance developer and solutions consultant
@@ -14,7 +14,7 @@
 - **Yielloh** - co-founder and chief technology office
 - **Platform Technologies KE** - Development intern
 
-## Technical skills
+#### Technical skills
 
 - **Languages**        Ruby, PHP, Scala, Elixir, Javascript, Golang, HTML, CSS, SCSS
 - **Frameworks**       Ruby On Rails, Play for Scala, Phoenix Framework, AngularJS 1.x, Ionic Framework, VueJS 2.x 
